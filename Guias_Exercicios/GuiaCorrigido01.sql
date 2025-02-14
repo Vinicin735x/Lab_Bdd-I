@@ -1,3 +1,4 @@
+#Criação do banco
 create database NomeDoAluno;
 use NomeDoAluno;
 
